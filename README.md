@@ -133,32 +133,32 @@ npm run local (访问本地后台系统，需运行node-elm后台系统)
 
 ### 商铺筛选页
 
-<img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/food.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/food.gif" width="365" height="619"/>
+<img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/food.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/food.gif" width="365" height="619"/>
 
 
 
 ### 餐馆食品列表与购物车
 
-<img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/shop_cart.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/shop_cart.gif" width="365" height="619"/>
+<img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/shop_cart.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/shop_cart.gif" width="365" height="619"/>
 
 ### 确认订单页
 
-<img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/confirm1.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/confirmOrder.gif" width="365" height="619"/>
+<img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/confirm1.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/confirmOrder.gif" width="365" height="619"/>
 
 
 ### 搜索页
 
-<img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/search.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/search.gif" width="365" height="619"/>
+<img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/search.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/search.gif" width="365" height="619"/>
 
 
 ### 登录页
 
-<img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/login1.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/login.gif" width="365" height="619"/>
+<img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/login1.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/login.gif" width="365" height="619"/>
 
 
 ### 个人中心
 
-<img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/profile.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/profile.gif" width="365" height="619"/>
+<img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/profile.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/profile.gif" width="365" height="619"/>
 
 
 
