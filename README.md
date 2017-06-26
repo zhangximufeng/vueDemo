@@ -128,7 +128,7 @@ npm run local (访问本地后台系统，需运行node-elm后台系统)
 
 ### 商铺列表页
 
-<img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/msite.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vue2-elm/blob/master/screenshots/msite.gif" width="365" height="619"/>
+<img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/msite.png" width="365" height="619"/> <img src="https://github.com/zhangximufeng/vueDemo/blob/master/screenshots/msite.gif" width="365" height="619"/>
 
 
 ### 商铺筛选页
