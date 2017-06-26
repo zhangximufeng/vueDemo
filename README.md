@@ -35,7 +35,7 @@ vue2 + vuex + vue-router + webpack + ES6/7 + fetch + sass + flex + svg
 ```
 git clone https://github.com/zhangximufeng/vueDemo.git  
 
-cd vue2-elm
+cd vueDemo
 
 npm install
 
